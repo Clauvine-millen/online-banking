@@ -1,0 +1,42 @@
+
+li{
+display:inline-block;
+margin: 15px;
+font-size: 20px;
+}
+h2{
+	text-align: center;
+}
+nav{
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#navbarNav{
+text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn{
+	padding: 10px 20px;
+	background-color: green;
+	color:white;
+	border: none;
+}
+
+.center{
+	text-align: center;
+}
+section{
+	display: flex;
+	
+
+}
+
+.left{
+margin: 20px;
+padding: 10px 20px;
+
+}
